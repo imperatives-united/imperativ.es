@@ -8,7 +8,7 @@ body {
 .main-content {
     padding: 25px 50px;
     background-color: #fff;
-    font-family: 'Roboto', sans-serif;
+    font-family: 'Nunito Sans', sans-serif;
 }
 
 a {
@@ -45,7 +45,7 @@ header {
     padding: 25px;
     text-align: center;
     background-color: rgba(255, 255, 255, 0.12);
-    text-shadow: 0px 1px #353b43;
+    text-shadow: 0px 1px #47586a;
 }
 
 .main-cta h2{
@@ -64,6 +64,12 @@ h1.logo {
     font-family: 'Alegreya Sans', sans-serif;
     font-weight: normal;
     font-size: 1.5em;
-    color: #b4845e;
+    color: #a28e84;
+    //color: #b4845e;
     text-shadow: 1px 1px 2px #050c1c;
+}
+
+.main-content-section h2 {
+    font-size: 1.4em;
+    font-weight: normal;
 }
