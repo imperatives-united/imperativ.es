@@ -62,10 +62,10 @@ h1.logo {
 
 .mission {
     font-family: 'Alegreya Sans', sans-serif;
-    font-weight: normal;
     font-size: 1.5em;
-    color: #a28e84;
-    //color: #b4845e;
+    font-weight: bold;
+    font-size: 1.5em;
+    color: rgb(148, 144, 161);
     text-shadow: 1px 1px 2px #050c1c;
 }
 
